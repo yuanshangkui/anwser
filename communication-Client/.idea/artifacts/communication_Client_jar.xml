@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="communication-Client:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/communication_Client_jar</output-path>
+    <root id="archive" name="communication-Client.jar">
+      <element id="module-output" name="communication-Client" />
+    </root>
+  </artifact>
+</component>
